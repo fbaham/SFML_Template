@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="SFML">
+	<Project Name="SFML" Path="SFML.project" Active="No"/>
+	<BuildMatrix>
+		<WorkspaceConfiguration Name="Release" Selected="yes">
+			<Project Name="SFML" ConfigName="Release"/>
+		</WorkspaceConfiguration>
+	</BuildMatrix>
+</CodeLite_Workspace>

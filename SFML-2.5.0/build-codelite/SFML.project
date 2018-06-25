@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="SFML" InternalType="">
+	<VirtualDirectory Name="src">
+		<VirtualDirectory Name="src">
+			<VirtualDirectory Name="SFML">
+				<VirtualDirectory Name="Audio">
+					<File Name="../src/SFML/Audio/ALCheck.cpp"/>
+					<File Name="../src/SFML/Audio/AlResource.cpp"/>
+					<File Name="../src/SFML/Audio/AudioDevice.cpp"/>
+					<File Name="../src/SFML/Audio/InputSoundFile.cpp"/>
+					<File Name="../src/SFML/Audio/Listener.cpp"/>
+					<File Name="../src/SFML/Audio/Music.cpp"/>
+					<File Name="../src/SFML/Audio/OutputSoundFile.cpp"/>
+					<File Name="../src/SFML/Audio/Sound.cpp"/>
+					<File Name="../src/SFML/Audio/SoundBuffer.cpp"/>
+					<File Name="../src/SFML/Audio/SoundBufferRecorder.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileFactory.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileReaderFlac.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileReaderOgg.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileReaderWav.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileWriterFlac.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileWriterOgg.cpp"/>
+					<File Name="../src/SFML/Audio/SoundFileWriterWav.cpp"/>
+					<File Name="../src/SFML/Audio/SoundRecorder.cpp"/>
+					<File Name="../src/SFML/Audio/SoundSource.cpp"/>
+					<File Name="../src/SFML/Audio/SoundStream.cpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Graphics">
+					<File Name="../src/SFML/Graphics/BlendMode.cpp"/>
+					<File Name="../src/SFML/Graphics/CircleShape.cpp"/>
+					<File Name="../src/SFML/Graphics/Color.cpp"/>
+					<File Name="../src/SFML/Graphics/ConvexShape.cpp"/>
+					<File Name="../src/SFML/Graphics/Font.cpp"/>
+					<File Name="../src/SFML/Graphics/GLCheck.cpp"/>
+					<File Name="../src/SFML/Graphics/GLExtensions.cpp"/>
+					<File Name="../src/SFML/Graphics/GLLoader.cpp"/>
+					<File Name="../src/SFML/Graphics/Glsl.cpp"/>
+					<File Name="../src/SFML/Graphics/Image.cpp"/>
+					<File Name="../src/SFML/Graphics/ImageLoader.cpp"/>
+					<File Name="../src/SFML/Graphics/RectangleShape.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderStates.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderTarget.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderTexture.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderTextureImpl.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderTextureImplDefault.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderTextureImplFBO.cpp"/>
+					<File Name="../src/SFML/Graphics/RenderWindow.cpp"/>
+					<File Name="../src/SFML/Graphics/Shader.cpp"/>
+					<File Name="../src/SFML/Graphics/Shape.cpp"/>
+					<File Name="../src/SFML/Graphics/Sprite.cpp"/>
+					<File Name="../src/SFML/Graphics/Text.cpp"/>
+					<File Name="../src/SFML/Graphics/Texture.cpp"/>
+					<File Name="../src/SFML/Graphics/TextureSaver.cpp"/>
+					<File Name="../src/SFML/Graphics/Transform.cpp"/>
+					<File Name="../src/SFML/Graphics/Transformable.cpp"/>
+					<File Name="../src/SFML/Graphics/Vertex.cpp"/>
+					<File Name="../src/SFML/Graphics/VertexArray.cpp"/>
+					<File Name="../src/SFML/Graphics/VertexBuffer.cpp"/>
+					<File Name="../src/SFML/Graphics/View.cpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Network">
+					<File Name="../src/SFML/Network/Ftp.cpp"/>
+					<File Name="../src/SFML/Network/Http.cpp"/>
+					<File Name="../src/SFML/Network/IpAddress.cpp"/>
+					<File Name="../src/SFML/Network/Packet.cpp"/>
+					<File Name="../src/SFML/Network/Socket.cpp"/>
+					<File Name="../src/SFML/Network/SocketSelector.cpp"/>
+					<File Name="../src/SFML/Network/TcpListener.cpp"/>
+					<File Name="../src/SFML/Network/TcpSocket.cpp"/>
+					<File Name="../src/SFML/Network/UdpSocket.cpp"/>
+					<VirtualDirectory Name="Unix">
+						<File Name="../src/SFML/Network/Unix/SocketImpl.cpp"/>
+					</VirtualDirectory>
+				</VirtualDirectory>
+				<VirtualDirectory Name="System">
+					<File Name="../src/SFML/System/Clock.cpp"/>
+					<File Name="../src/SFML/System/Err.cpp"/>
+					<File Name="../src/SFML/System/FileInputStream.cpp"/>
+					<File Name="../src/SFML/System/Lock.cpp"/>
+					<File Name="../src/SFML/System/MemoryInputStream.cpp"/>
+					<File Name="../src/SFML/System/Mutex.cpp"/>
+					<File Name="../src/SFML/System/Sleep.cpp"/>
+					<File Name="../src/SFML/System/String.cpp"/>
+					<File Name="../src/SFML/System/Thread.cpp"/>
+					<File Name="../src/SFML/System/ThreadLocal.cpp"/>
+					<File Name="../src/SFML/System/Time.cpp"/>
+					<VirtualDirectory Name="Unix">
+						<File Name="../src/SFML/System/Unix/ClockImpl.cpp"/>
+						<File Name="../src/SFML/System/Unix/MutexImpl.cpp"/>
+						<File Name="../src/SFML/System/Unix/SleepImpl.cpp"/>
+						<File Name="../src/SFML/System/Unix/ThreadImpl.cpp"/>
+						<File Name="../src/SFML/System/Unix/ThreadLocalImpl.cpp"/>
+					</VirtualDirectory>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Window">
+					<File Name="../src/SFML/Window/Clipboard.cpp"/>
+					<File Name="../src/SFML/Window/Context.cpp"/>
+					<File Name="../src/SFML/Window/Cursor.cpp"/>
+					<File Name="../src/SFML/Window/GlContext.cpp"/>
+					<File Name="../src/SFML/Window/GlResource.cpp"/>
+					<File Name="../src/SFML/Window/Joystick.cpp"/>
+					<File Name="../src/SFML/Window/JoystickManager.cpp"/>
+					<File Name="../src/SFML/Window/Keyboard.cpp"/>
+					<File Name="../src/SFML/Window/Mouse.cpp"/>
+					<File Name="../src/SFML/Window/Sensor.cpp"/>
+					<File Name="../src/SFML/Window/SensorManager.cpp"/>
+					<File Name="../src/SFML/Window/Touch.cpp"/>
+					<VirtualDirectory Name="Unix">
+						<File Name="../src/SFML/Window/Unix/ClipboardImpl.cpp"/>
+						<File Name="../src/SFML/Window/Unix/CursorImpl.cpp"/>
+						<File Name="../src/SFML/Window/Unix/Display.cpp"/>
+						<File Name="../src/SFML/Window/Unix/GlxContext.cpp"/>
+						<File Name="../src/SFML/Window/Unix/GlxExtensions.cpp"/>
+						<File Name="../src/SFML/Window/Unix/InputImpl.cpp"/>
+						<File Name="../src/SFML/Window/Unix/JoystickImpl.cpp"/>
+						<File Name="../src/SFML/Window/Unix/SensorImpl.cpp"/>
+						<File Name="../src/SFML/Window/Unix/VideoModeImpl.cpp"/>
+						<File Name="../src/SFML/Window/Unix/WindowImplX11.cpp"/>
+					</VirtualDirectory>
+					<File Name="../src/SFML/Window/VideoMode.cpp"/>
+					<File Name="../src/SFML/Window/Window.cpp"/>
+					<File Name="../src/SFML/Window/WindowImpl.cpp"/>
+				</VirtualDirectory>
+			</VirtualDirectory>
+		</VirtualDirectory>
+	</VirtualDirectory>
+	<VirtualDirectory Name="include">
+		<VirtualDirectory Name="include">
+			<VirtualDirectory Name="SFML">
+				<VirtualDirectory Name="Audio">
+					<File Name="../include/SFML/Audio/AlResource.hpp"/>
+					<File Name="../include/SFML/Audio/Export.hpp"/>
+					<File Name="../include/SFML/Audio/InputSoundFile.hpp"/>
+					<File Name="../include/SFML/Audio/Listener.hpp"/>
+					<File Name="../include/SFML/Audio/Music.hpp"/>
+					<File Name="../include/SFML/Audio/OutputSoundFile.hpp"/>
+					<File Name="../include/SFML/Audio/Sound.hpp"/>
+					<File Name="../include/SFML/Audio/SoundBuffer.hpp"/>
+					<File Name="../include/SFML/Audio/SoundBufferRecorder.hpp"/>
+					<File Name="../include/SFML/Audio/SoundFileFactory.hpp"/>
+					<File Name="../include/SFML/Audio/SoundFileFactory.inl"/>
+					<File Name="../include/SFML/Audio/SoundFileReader.hpp"/>
+					<File Name="../include/SFML/Audio/SoundFileWriter.hpp"/>
+					<File Name="../include/SFML/Audio/SoundRecorder.hpp"/>
+					<File Name="../include/SFML/Audio/SoundSource.hpp"/>
+					<File Name="../include/SFML/Audio/SoundStream.hpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Graphics">
+					<File Name="../include/SFML/Graphics/BlendMode.hpp"/>
+					<File Name="../include/SFML/Graphics/CircleShape.hpp"/>
+					<File Name="../include/SFML/Graphics/Color.hpp"/>
+					<File Name="../include/SFML/Graphics/ConvexShape.hpp"/>
+					<File Name="../include/SFML/Graphics/Drawable.hpp"/>
+					<File Name="../include/SFML/Graphics/Export.hpp"/>
+					<File Name="../include/SFML/Graphics/Font.hpp"/>
+					<File Name="../include/SFML/Graphics/Glsl.hpp"/>
+					<File Name="../include/SFML/Graphics/Glsl.inl"/>
+					<File Name="../include/SFML/Graphics/Glyph.hpp"/>
+					<File Name="../include/SFML/Graphics/Image.hpp"/>
+					<File Name="../include/SFML/Graphics/PrimitiveType.hpp"/>
+					<File Name="../include/SFML/Graphics/Rect.hpp"/>
+					<File Name="../include/SFML/Graphics/Rect.inl"/>
+					<File Name="../include/SFML/Graphics/RectangleShape.hpp"/>
+					<File Name="../include/SFML/Graphics/RenderStates.hpp"/>
+					<File Name="../include/SFML/Graphics/RenderTarget.hpp"/>
+					<File Name="../include/SFML/Graphics/RenderTexture.hpp"/>
+					<File Name="../include/SFML/Graphics/RenderWindow.hpp"/>
+					<File Name="../include/SFML/Graphics/Shader.hpp"/>
+					<File Name="../include/SFML/Graphics/Shape.hpp"/>
+					<File Name="../include/SFML/Graphics/Sprite.hpp"/>
+					<File Name="../include/SFML/Graphics/Text.hpp"/>
+					<File Name="../include/SFML/Graphics/Texture.hpp"/>
+					<File Name="../include/SFML/Graphics/Transform.hpp"/>
+					<File Name="../include/SFML/Graphics/Transformable.hpp"/>
+					<File Name="../include/SFML/Graphics/Vertex.hpp"/>
+					<File Name="../include/SFML/Graphics/VertexArray.hpp"/>
+					<File Name="../include/SFML/Graphics/VertexBuffer.hpp"/>
+					<File Name="../include/SFML/Graphics/View.hpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Network">
+					<File Name="../include/SFML/Network/Export.hpp"/>
+					<File Name="../include/SFML/Network/Ftp.hpp"/>
+					<File Name="../include/SFML/Network/Http.hpp"/>
+					<File Name="../include/SFML/Network/IpAddress.hpp"/>
+					<File Name="../include/SFML/Network/Packet.hpp"/>
+					<File Name="../include/SFML/Network/Socket.hpp"/>
+					<File Name="../include/SFML/Network/SocketHandle.hpp"/>
+					<File Name="../include/SFML/Network/SocketSelector.hpp"/>
+					<File Name="../include/SFML/Network/TcpListener.hpp"/>
+					<File Name="../include/SFML/Network/TcpSocket.hpp"/>
+					<File Name="../include/SFML/Network/UdpSocket.hpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="System">
+					<File Name="../include/SFML/System/Clock.hpp"/>
+					<File Name="../include/SFML/System/Err.hpp"/>
+					<File Name="../include/SFML/System/Export.hpp"/>
+					<File Name="../include/SFML/System/FileInputStream.hpp"/>
+					<File Name="../include/SFML/System/InputStream.hpp"/>
+					<File Name="../include/SFML/System/Lock.hpp"/>
+					<File Name="../include/SFML/System/MemoryInputStream.hpp"/>
+					<File Name="../include/SFML/System/Mutex.hpp"/>
+					<File Name="../include/SFML/System/NativeActivity.hpp"/>
+					<File Name="../include/SFML/System/NonCopyable.hpp"/>
+					<File Name="../include/SFML/System/Sleep.hpp"/>
+					<File Name="../include/SFML/System/String.hpp"/>
+					<File Name="../include/SFML/System/String.inl"/>
+					<File Name="../include/SFML/System/Thread.hpp"/>
+					<File Name="../include/SFML/System/Thread.inl"/>
+					<File Name="../include/SFML/System/ThreadLocal.hpp"/>
+					<File Name="../include/SFML/System/ThreadLocalPtr.hpp"/>
+					<File Name="../include/SFML/System/ThreadLocalPtr.inl"/>
+					<File Name="../include/SFML/System/Time.hpp"/>
+					<File Name="../include/SFML/System/Utf.hpp"/>
+					<File Name="../include/SFML/System/Utf.inl"/>
+					<File Name="../include/SFML/System/Vector2.hpp"/>
+					<File Name="../include/SFML/System/Vector2.inl"/>
+					<File Name="../include/SFML/System/Vector3.hpp"/>
+					<File Name="../include/SFML/System/Vector3.inl"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Window">
+					<File Name="../include/SFML/Window/Clipboard.hpp"/>
+					<File Name="../include/SFML/Window/Context.hpp"/>
+					<File Name="../include/SFML/Window/ContextSettings.hpp"/>
+					<File Name="../include/SFML/Window/Cursor.hpp"/>
+					<File Name="../include/SFML/Window/Event.hpp"/>
+					<File Name="../include/SFML/Window/Export.hpp"/>
+					<File Name="../include/SFML/Window/GlResource.hpp"/>
+					<File Name="../include/SFML/Window/Joystick.hpp"/>
+					<File Name="../include/SFML/Window/Keyboard.hpp"/>
+					<File Name="../include/SFML/Window/Mouse.hpp"/>
+					<File Name="../include/SFML/Window/Sensor.hpp"/>
+					<File Name="../include/SFML/Window/Touch.hpp"/>
+					<File Name="../include/SFML/Window/VideoMode.hpp"/>
+					<File Name="../include/SFML/Window/Window.hpp"/>
+					<File Name="../include/SFML/Window/WindowHandle.hpp"/>
+					<File Name="../include/SFML/Window/WindowStyle.hpp"/>
+				</VirtualDirectory>
+			</VirtualDirectory>
+		</VirtualDirectory>
+		<VirtualDirectory Name="src">
+			<VirtualDirectory Name="SFML">
+				<VirtualDirectory Name="Audio">
+					<File Name="../src/SFML/Audio/ALCheck.hpp"/>
+					<File Name="../src/SFML/Audio/AudioDevice.hpp"/>
+					<File Name="../src/SFML/Audio/SoundFileReaderFlac.hpp"/>
+					<File Name="../src/SFML/Audio/SoundFileReaderOgg.hpp"/>
+					<File Name="../src/SFML/Audio/SoundFileReaderWav.hpp"/>
+					<File Name="../src/SFML/Audio/SoundFileWriterFlac.hpp"/>
+					<File Name="../src/SFML/Audio/SoundFileWriterOgg.hpp"/>
+					<File Name="../src/SFML/Audio/SoundFileWriterWav.hpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Graphics">
+					<File Name="../src/SFML/Graphics/GLCheck.hpp"/>
+					<File Name="../src/SFML/Graphics/GLExtensions.hpp"/>
+					<File Name="../src/SFML/Graphics/GLLoader.hpp"/>
+					<File Name="../src/SFML/Graphics/ImageLoader.hpp"/>
+					<File Name="../src/SFML/Graphics/RenderTextureImpl.hpp"/>
+					<File Name="../src/SFML/Graphics/RenderTextureImplDefault.hpp"/>
+					<File Name="../src/SFML/Graphics/RenderTextureImplFBO.hpp"/>
+					<File Name="../src/SFML/Graphics/TextureSaver.hpp"/>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Network">
+					<File Name="../src/SFML/Network/SocketImpl.hpp"/>
+					<VirtualDirectory Name="Unix">
+						<File Name="../src/SFML/Network/Unix/SocketImpl.hpp"/>
+					</VirtualDirectory>
+				</VirtualDirectory>
+				<VirtualDirectory Name="System">
+					<VirtualDirectory Name="Unix">
+						<File Name="../src/SFML/System/Unix/ClockImpl.hpp"/>
+						<File Name="../src/SFML/System/Unix/MutexImpl.hpp"/>
+						<File Name="../src/SFML/System/Unix/SleepImpl.hpp"/>
+						<File Name="../src/SFML/System/Unix/ThreadImpl.hpp"/>
+						<File Name="../src/SFML/System/Unix/ThreadLocalImpl.hpp"/>
+					</VirtualDirectory>
+				</VirtualDirectory>
+				<VirtualDirectory Name="Window">
+					<File Name="../src/SFML/Window/ClipboardImpl.hpp"/>
+					<File Name="../src/SFML/Window/CursorImpl.hpp"/>
+					<File Name="../src/SFML/Window/GlContext.hpp"/>
+					<File Name="../src/SFML/Window/InputImpl.hpp"/>
+					<File Name="../src/SFML/Window/JoystickImpl.hpp"/>
+					<File Name="../src/SFML/Window/JoystickManager.hpp"/>
+					<File Name="../src/SFML/Window/SensorImpl.hpp"/>
+					<File Name="../src/SFML/Window/SensorManager.hpp"/>
+					<VirtualDirectory Name="Unix">
+						<File Name="../src/SFML/Window/Unix/ClipboardImpl.hpp"/>
+						<File Name="../src/SFML/Window/Unix/CursorImpl.hpp"/>
+						<File Name="../src/SFML/Window/Unix/Display.hpp"/>
+						<File Name="../src/SFML/Window/Unix/GlxContext.hpp"/>
+						<File Name="../src/SFML/Window/Unix/GlxExtensions.hpp"/>
+						<File Name="../src/SFML/Window/Unix/InputImpl.hpp"/>
+						<File Name="../src/SFML/Window/Unix/JoystickImpl.hpp"/>
+						<File Name="../src/SFML/Window/Unix/SensorImpl.hpp"/>
+						<File Name="../src/SFML/Window/Unix/WindowImplX11.hpp"/>
+					</VirtualDirectory>
+					<File Name="../src/SFML/Window/VideoModeImpl.hpp"/>
+					<File Name="../src/SFML/Window/WindowImpl.hpp"/>
+				</VirtualDirectory>
+			</VirtualDirectory>
+		</VirtualDirectory>
+	</VirtualDirectory>
+	<Settings Type="">
+		<Configuration Name="Release" CompilerType="gnu g++" DebuggerType="GNU gdb debugger" Type="" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+			<Compiler Options="-g" Required="yes" PreCompiledHeader="">
+				<IncludePath Value="."/>
+			</Compiler>
+			<Linker Options="" Required="yes"/>
+			<ResourceCompiler Options="" Required="no"/>
+			<General OutputFile="$(IntermediateDirectory)/$(ProjectName)" IntermediateDirectory="./" Command="./$(ProjectName)" CommandArguments="" WorkingDirectory="$(IntermediateDirectory)" PauseExecWhenProcTerminates="yes"/>
+			<Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="">
+				<PostConnectCommands/>
+				<StartupCommands/>
+			</Debugger>
+			<PreBuild/>
+			<PostBuild/>
+			<CustomBuild Enabled="yes">
+				<RebuildCommand>/usr/bin/make -j 8 clean &amp;&amp; /usr/bin/make -j 8</RebuildCommand>
+				<CleanCommand>/usr/bin/make -j 8 clean</CleanCommand>
+				<BuildCommand>/usr/bin/make -j 8</BuildCommand>
+				<SingleFileCommand>/usr/bin/make -f$(ProjectPath)/Makefile $(CurrentFileName).cpp.o</SingleFileCommand>
+				<PreprocessFileCommand/>
+				<WorkingDirectory>$(WorkspacePath)</WorkingDirectory>
+			</CustomBuild>
+			<AdditionalRules>
+				<CustomPostBuild/>
+				<CustomPreBuild/>
+			</AdditionalRules>
+		</Configuration>
+		<GlobalSettings>
+			<Compiler Options="">
+				<IncludePath Value="."/>
+			</Compiler>
+			<Linker Options="">
+				<LibraryPath Value="."/>
+			</Linker>
+			<ResourceCompiler Options=""/>
+		</GlobalSettings>
+	</Settings>
+</CodeLite_Project>

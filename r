@@ -1,0 +1,2 @@
+#./bin/Debug/SFML_Template -e cb_console_runner LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.:SFML-2.5.0/build-unix/lib /home/francisco/Projects/SFML/SFML_Template/ in /home/francisco/Projects/SFML/SFML_Template/.
+./bin/Debug/SFML_Template
