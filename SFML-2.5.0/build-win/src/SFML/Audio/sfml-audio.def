@@ -1,0 +1,192 @@
+EXPORTS
+    _ZN2sf10AlResourceC1Ev @1
+    _ZN2sf10AlResourceC2Ev @2
+    _ZN2sf10AlResourceD1Ev @3
+    _ZN2sf10AlResourceD2Ev @4
+    _ZN2sf11SoundBuffer10initializeERNS_14InputSoundFileE @5
+    _ZN2sf11SoundBuffer12loadFromFileERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @6
+    _ZN2sf11SoundBuffer14loadFromMemoryEPKvy @7
+    _ZN2sf11SoundBuffer14loadFromStreamERNS_11InputStreamE @8
+    _ZN2sf11SoundBuffer15loadFromSamplesEPKsyjj @9
+    _ZN2sf11SoundBuffer6updateEjj @10
+    _ZN2sf11SoundBufferC1ERKS0_ @11
+    _ZN2sf11SoundBufferC1Ev @12
+    _ZN2sf11SoundBufferC2ERKS0_ @13
+    _ZN2sf11SoundBufferC2Ev @14
+    _ZN2sf11SoundBufferD1Ev @15
+    _ZN2sf11SoundBufferD2Ev @16
+    _ZN2sf11SoundBufferaSERKS0_ @17
+    _ZN2sf11SoundSource11setPositionERKNS_7Vector3IfEE @18
+    _ZN2sf11SoundSource11setPositionEfff @19
+    _ZN2sf11SoundSource14setAttenuationEf @20
+    _ZN2sf11SoundSource14setMinDistanceEf @21
+    _ZN2sf11SoundSource21setRelativeToListenerEb @22
+    _ZN2sf11SoundSource8setPitchEf @23
+    _ZN2sf11SoundSource9setVolumeEf @24
+    _ZN2sf11SoundSourceC1ERKS0_ @25
+    _ZN2sf11SoundSourceC1Ev @26
+    _ZN2sf11SoundSourceC2ERKS0_ @27
+    _ZN2sf11SoundSourceC2Ev @28
+    _ZN2sf11SoundSourceD0Ev @29
+    _ZN2sf11SoundSourceD1Ev @30
+    _ZN2sf11SoundSourceD2Ev @31
+    _ZN2sf11SoundSourceaSERKS0_ @32
+    _ZN2sf11SoundStream10clearQueueEv @33
+    _ZN2sf11SoundStream10initializeEjj @34
+    _ZN2sf11SoundStream10streamDataEv @35
+    _ZN2sf11SoundStream16setPlayingOffsetENS_4TimeE @36
+    _ZN2sf11SoundStream17fillAndPushBufferEjb @37
+    _ZN2sf11SoundStream4playEv @38
+    _ZN2sf11SoundStream4stopEv @39
+    _ZN2sf11SoundStream5pauseEv @40
+    _ZN2sf11SoundStream6onLoopEv @41
+    _ZN2sf11SoundStream7setLoopEb @42
+    _ZN2sf11SoundStream9fillQueueEv @43
+    _ZN2sf11SoundStreamC1Ev @44
+    _ZN2sf11SoundStreamC2Ev @45
+    _ZN2sf11SoundStreamD0Ev @46
+    _ZN2sf11SoundStreamD1Ev @47
+    _ZN2sf11SoundStreamD2Ev @48
+    _ZN2sf13SoundRecorder11isAvailableEv @49
+    _ZN2sf13SoundRecorder15setChannelCountEj @50
+    _ZN2sf13SoundRecorder16getDefaultDeviceB5cxx11Ev @51
+    _ZN2sf13SoundRecorder19getAvailableDevicesB5cxx11Ev @52
+    _ZN2sf13SoundRecorder21setProcessingIntervalENS_4TimeE @53
+    _ZN2sf13SoundRecorder22processCapturedSamplesEv @54
+    _ZN2sf13SoundRecorder4stopEv @55
+    _ZN2sf13SoundRecorder5startEj @56
+    _ZN2sf13SoundRecorder6onStopEv @57
+    _ZN2sf13SoundRecorder6recordEv @58
+    _ZN2sf13SoundRecorder7cleanupEv @59
+    _ZN2sf13SoundRecorder7onStartEv @60
+    _ZN2sf13SoundRecorder9setDeviceERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @61
+    _ZN2sf13SoundRecorderC1Ev @62
+    _ZN2sf13SoundRecorderC2Ev @63
+    _ZN2sf13SoundRecorderD0Ev @64
+    _ZN2sf13SoundRecorderD1Ev @65
+    _ZN2sf13SoundRecorderD2Ev @66
+    _ZN2sf14InputSoundFile12openFromFileERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @67
+    _ZN2sf14InputSoundFile14openFromMemoryEPKvy @68
+    _ZN2sf14InputSoundFile14openFromStreamERNS_11InputStreamE @69
+    _ZN2sf14InputSoundFile4readEPsy @70
+    _ZN2sf14InputSoundFile4seekENS_4TimeE @71
+    _ZN2sf14InputSoundFile4seekEy @72
+    _ZN2sf14InputSoundFile5closeEv @73
+    _ZN2sf14InputSoundFileC1Ev @74
+    _ZN2sf14InputSoundFileC2Ev @75
+    _ZN2sf14InputSoundFileD1Ev @76
+    _ZN2sf14InputSoundFileD2Ev @77
+    _ZN2sf15OutputSoundFile12openFromFileERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEjj @78
+    _ZN2sf15OutputSoundFile5closeEv @79
+    _ZN2sf15OutputSoundFile5writeEPKsy @80
+    _ZN2sf15OutputSoundFileC1Ev @81
+    _ZN2sf15OutputSoundFileC2Ev @82
+    _ZN2sf15OutputSoundFileD1Ev @83
+    _ZN2sf15OutputSoundFileD2Ev @84
+    _ZN2sf16SoundFileFactory22createReaderFromMemoryEPKvy @85
+    _ZN2sf16SoundFileFactory22createReaderFromStreamERNS_11InputStreamE @86
+    _ZN2sf16SoundFileFactory24createReaderFromFilenameERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @87
+    _ZN2sf16SoundFileFactory24createWriterFromFilenameERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @88
+    _ZN2sf16SoundFileFactory9s_readersE @89 DATA
+    _ZN2sf16SoundFileFactory9s_writersE @90 DATA
+    _ZN2sf19SoundBufferRecorder16onProcessSamplesEPKsy @91
+    _ZN2sf19SoundBufferRecorder6onStopEv @92
+    _ZN2sf19SoundBufferRecorder7onStartEv @93
+    _ZN2sf19SoundBufferRecorderD0Ev @94
+    _ZN2sf19SoundBufferRecorderD1Ev @95
+    _ZN2sf19SoundBufferRecorderD2Ev @96
+    _ZN2sf5Music10initializeEv @97
+    _ZN2sf5Music12openFromFileERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @98
+    _ZN2sf5Music13setLoopPointsENS0_4SpanINS_4TimeEEE @99
+    _ZN2sf5Music14openFromMemoryEPKvy @100
+    _ZN2sf5Music14openFromStreamERNS_11InputStreamE @101
+    _ZN2sf5Music6onLoopEv @102
+    _ZN2sf5Music6onSeekENS_4TimeE @103
+    _ZN2sf5Music9onGetDataERNS_11SoundStream5ChunkE @104
+    _ZN2sf5MusicC1Ev @105
+    _ZN2sf5MusicC2Ev @106
+    _ZN2sf5MusicD0Ev @107
+    _ZN2sf5MusicD1Ev @108
+    _ZN2sf5MusicD2Ev @109
+    _ZN2sf5Sound11resetBufferEv @110
+    _ZN2sf5Sound16setPlayingOffsetENS_4TimeE @111
+    _ZN2sf5Sound4playEv @112
+    _ZN2sf5Sound4stopEv @113
+    _ZN2sf5Sound5pauseEv @114
+    _ZN2sf5Sound7setLoopEb @115
+    _ZN2sf5Sound9setBufferERKNS_11SoundBufferE @116
+    _ZN2sf5SoundC1ERKNS_11SoundBufferE @117
+    _ZN2sf5SoundC1ERKS0_ @118
+    _ZN2sf5SoundC1Ev @119
+    _ZN2sf5SoundC2ERKNS_11SoundBufferE @120
+    _ZN2sf5SoundC2ERKS0_ @121
+    _ZN2sf5SoundC2Ev @122
+    _ZN2sf5SoundD0Ev @123
+    _ZN2sf5SoundD1Ev @124
+    _ZN2sf5SoundD2Ev @125
+    _ZN2sf5SoundaSERKS0_ @126
+    _ZN2sf8Listener11getPositionEv @127
+    _ZN2sf8Listener11getUpVectorEv @128
+    _ZN2sf8Listener11setPositionERKNS_7Vector3IfEE @129
+    _ZN2sf8Listener11setPositionEfff @130
+    _ZN2sf8Listener11setUpVectorERKNS_7Vector3IfEE @131
+    _ZN2sf8Listener11setUpVectorEfff @132
+    _ZN2sf8Listener12getDirectionEv @133
+    _ZN2sf8Listener12setDirectionERKNS_7Vector3IfEE @134
+    _ZN2sf8Listener12setDirectionEfff @135
+    _ZN2sf8Listener15getGlobalVolumeEv @136
+    _ZN2sf8Listener15setGlobalVolumeEf @137
+    _ZNK2sf11SoundBuffer10getSamplesEv @138
+    _ZNK2sf11SoundBuffer10saveToFileERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @139
+    _ZNK2sf11SoundBuffer11attachSoundEPNS_5SoundE @140
+    _ZNK2sf11SoundBuffer11detachSoundEPNS_5SoundE @141
+    _ZNK2sf11SoundBuffer11getDurationEv @142
+    _ZNK2sf11SoundBuffer13getSampleRateEv @143
+    _ZNK2sf11SoundBuffer14getSampleCountEv @144
+    _ZNK2sf11SoundBuffer15getChannelCountEv @145
+    _ZNK2sf11SoundSource11getPositionEv @146
+    _ZNK2sf11SoundSource14getAttenuationEv @147
+    _ZNK2sf11SoundSource14getMinDistanceEv @148
+    _ZNK2sf11SoundSource20isRelativeToListenerEv @149
+    _ZNK2sf11SoundSource8getPitchEv @150
+    _ZNK2sf11SoundSource9getStatusEv @151
+    _ZNK2sf11SoundSource9getVolumeEv @152
+    _ZNK2sf11SoundStream13getSampleRateEv @153
+    _ZNK2sf11SoundStream15getChannelCountEv @154
+    _ZNK2sf11SoundStream16getPlayingOffsetEv @155
+    _ZNK2sf11SoundStream7getLoopEv @156
+    _ZNK2sf11SoundStream9getStatusEv @157
+    _ZNK2sf13SoundRecorder13getSampleRateEv @158
+    _ZNK2sf13SoundRecorder15getChannelCountEv @159
+    _ZNK2sf13SoundRecorder9getDeviceB5cxx11Ev @160
+    _ZNK2sf14InputSoundFile11getDurationEv @161
+    _ZNK2sf14InputSoundFile13getSampleRateEv @162
+    _ZNK2sf14InputSoundFile13getTimeOffsetEv @163
+    _ZNK2sf14InputSoundFile14getSampleCountEv @164
+    _ZNK2sf14InputSoundFile15getChannelCountEv @165
+    _ZNK2sf14InputSoundFile15getSampleOffsetEv @166
+    _ZNK2sf19SoundBufferRecorder9getBufferEv @167
+    _ZNK2sf5Music11getDurationEv @168
+    _ZNK2sf5Music13getLoopPointsEv @169
+    _ZNK2sf5Music13samplesToTimeEy @170
+    _ZNK2sf5Music13timeToSamplesENS_4TimeE @171
+    _ZNK2sf5Sound16getPlayingOffsetEv @172
+    _ZNK2sf5Sound7getLoopEv @173
+    _ZNK2sf5Sound9getBufferEv @174
+    _ZNK2sf5Sound9getStatusEv @175
+    _ZTIN2sf11SoundSourceE @176 DATA
+    _ZTIN2sf11SoundStreamE @177 DATA
+    _ZTIN2sf13SoundRecorderE @178 DATA
+    _ZTIN2sf15SoundFileReaderE @179 DATA
+    _ZTIN2sf15SoundFileWriterE @180 DATA
+    _ZTIN2sf19SoundBufferRecorderE @181 DATA
+    _ZTIN2sf5MusicE @182 DATA
+    _ZTIN2sf5SoundE @183 DATA
+    _ZTVN2sf11SoundSourceE @184 DATA
+    _ZTVN2sf11SoundStreamE @185 DATA
+    _ZTVN2sf13SoundRecorderE @186 DATA
+    _ZTVN2sf15SoundFileReaderE @187 DATA
+    _ZTVN2sf15SoundFileWriterE @188 DATA
+    _ZTVN2sf19SoundBufferRecorderE @189 DATA
+    _ZTVN2sf5MusicE @190 DATA
+    _ZTVN2sf5SoundE @191 DATA
